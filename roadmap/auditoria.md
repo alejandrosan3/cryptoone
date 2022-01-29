@@ -1,3 +1,3 @@
-# ✅ Auditoria
+# ✅ Auditing
 
-En proceso.
+In progress.

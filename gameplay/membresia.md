@@ -4,4 +4,3 @@
 
 This membership can only be purchased using $CONE and will cost $7.
 
-&#x20;                                                                    ****                                                                    &#x20;

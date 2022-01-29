@@ -9,7 +9,7 @@
 * [💳 Pass Cards](gameplay/tarjetas-de-pase.md)
 * [🎖 Membership](gameplay/membresia.md)
 * [👁 Rules](gameplay/reglamento.md)
-* [-](gameplay/modo-de-juego.md)
+* [🪧 Gameplay](gameplay/modo-de-juego.md)
 * [💰 Profit Table](gameplay/tabla-de-ganancia.md)
 * [🎁 Roulette](gameplay/ruleta.md)
 * [🏅 Weekly Rewards](gameplay/weekly-reward.md)
@@ -33,7 +33,7 @@
 ## ROADMAP
 
 * [🗺 RoadMap](roadmap/roadmap.md)
-* [Auditing](roadmap/auditoria.md)
+* [✅ Auditing](roadmap/auditoria.md)
 
 ## First steps
 

@@ -1,4 +1,4 @@
-# -
+# 🪧 Gameplay
 
 **Room Owner:** Each owner will be able to profit from each game that is played in their room.
 
@@ -23,9 +23,8 @@ In this mode, the system will place you on a table with an AI (you'll face a Bot
 
 **Selectable PVP:**
 
-More empathic game mode, in which you can select the users with whom you want to play by "Nickname". In this Mode, you will also be able to make a bet before the match starts and it will start only 
- if every player agrees with it.
+More empathic game mode, in which you can select the users with whom you want to play by "Nickname". In this Mode, you will also be able to make a bet before the match starts and it will start only if every player agrees with it.
 
-****
+***
 
-****
+***
