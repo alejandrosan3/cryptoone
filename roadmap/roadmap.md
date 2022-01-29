@@ -4,11 +4,11 @@
 
 * Website
 * Whitepaper
-* Sociales networks
+* Social and information networks
+* Game Creation
 * Smart Contracts
 * Private sale
 * Marketing
-* Game Creation
 
 **Phase 2**
 
