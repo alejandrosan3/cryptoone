@@ -1,8 +1,8 @@
-# 👑 Claim (Oraculo Inverso)
+# 👑 Claim (Reverse Oracle)
 
-Esta sección será la mas importante, ya que tendrá como misión, velar porque tu balance del juego sea similar al momento de sacar tus recompensas, es decir, dentro del juego tu saldo se reflejara en Dólares y al momento de retirar se te entregara un monto en tokens **$CONE** Pero equivalente al saldo:
+This section will be the most important one since its mission will be to ensure that your game balance is similar at the time of withdrawing your rewards. This means your balance will be reflected in Dollars and at the time of withdrawal you will be given an equivalent amount in **$**CONE tokens:
 
-| Precio del Token  | Cantidad de Dolares En juego | Cantidad de Tokens equivalente | Cantidad de Ganancia recibida Con el Oraculo |
+| Token Price | Amount of dollars at stake | Equivalent amount of Tokens | Amount of Profit received with the Oracle |
 | :---------------: | :--------------------------: | :----------------------------: | :------------------------------------------: |
-|        10$        |             100$             |            10 $CONE            |                     100$                     |
-|        100$       |             100$             |             1 $CONE            |                     100$                     |
+| 10$ | 100$ | $10 $CONE | 100$ |
+| 100$ | 100$ | 1 $CONE | 100$ |

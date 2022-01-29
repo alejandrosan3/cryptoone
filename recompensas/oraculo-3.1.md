@@ -1,12 +1,12 @@
-# 😱 Oraculo 3.1
+# 😱 Oracle 3.1
 
-Luego de analizar el funcionamiento de proyectos NFT de los últimos tiempos, la Compañía Orión Tech ha diseñado un innovador sistema de equilibrio interno denominado Oráculo 3.1 &#x20;
+After analyzing the performance of recent NFT projects, the Orion Tech Company has designed an innovative internal balance system called Oracle 3.1  
 
-¿Por que Implementar este Sistema?
+Why implementing this system?
 
-Un Tax de transacción común en muchos proyectos es algo alto, y así exista mucho trafico de transacciones el Tax sigue siendo el mismo, es por ello que en Crypto One, se ejecutara este sistema de la siguiente manera.
+A common transaction Tax in many projects is somewhat high, and even if there is a lot of transaction traffic, the Tax remains the same, which is why in Crypto One, this system will be executed as follows.
 
-* **La cantidad de usuarios transando es inferior a 400:** Se establece un precio de Tax de 0,20$ fijo para todos los tipos de transacciones que se ejecuten dentro del juego.
-* **La cantidad de usuarios transando es superior a 400 e inferior a 800:** Se establece un descuento de un 10% del Tax Base 0,20$ para todos los tipos de transacciones que se ejecuten dentro del juego.
-* **La cantidad de usuarios transando esta en un rango de 801 a +∞**: Se establece un descuento de un 15% del Tax Base 0,20$ para todos los tipos de transacciones que se ejecuten dentro del juego.
+* **The number of users trading is less than 400:** A fixed Tax price of $0.20 is established for all types of transactions that are executed within the game.
+* **The number of users trading is greater than 400 and less than 800:** A discount of 10% of the Tax Base 0.20$ is established for all types of transactions that are executed within the game.
+* **The number of users transacting is in a range from 801 to +∞**: A discount of 15% of the Tax Base 0.20$ is established for all types of transactions that are executed within the game.
 

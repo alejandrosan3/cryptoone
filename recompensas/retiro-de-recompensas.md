@@ -1,11 +1,11 @@
-# ❗ Retiro de Recompensas
+# ❗ Rewards Withdrawal
 
-El sistema de retiro de Recompensas o ganancias de Crypto One será de la forma escalonada cada 7 días (Claim Semanal), el mismo estará limitado a que tendrás que sacar el 100% de tus ganancias cada este tiempo.
+The Crypto One Rewards or earnings withdrawal system will be staggered every 7 days (Weekly Claim), it will be limited to the fact that you will have to withdraw 100% of your earnings each time.
 
-**Aviso: Si usted no retira el día 7 su 100% de ganancias, el sistema lo penalizara de la siguiente manera:**
+**Notice: If you do not withdraw 100% of your profit on day 7, the system will penalize you as follows:**
 
-* Al día 8 el botón de claim no tendrá ninguna función, si no pasado 7 días mas.
-* El día 14 el sistema dejara sacar solo el 50% de sus ganancias acumuladas y así sucesivamente hasta los siguientes claim.
+* On day 8 the claim button will not have any function, but after 7 more days.
+* On day 14 the system will allow you to withdraw only 50% of your accumulated earnings and so on until the following claims.
 
 ****
 
