@@ -3,28 +3,28 @@ cover: ../.gitbook/assets/Passes3 (1).png
 coverY: 0
 ---
 
-# 💳 Tarjetas de Pase
+# 💳 Pass Cards
 
-**Starter Pass:**                  &#x20;
+**Starter Pass:**                   
 
 &#x20;                                                                         ****                                                                         &#x20;
 
 ![](<../.gitbook/assets/Starter Pass (1).png>)
 
-* 2 Match a day &#x20;
+* 2 Matches p/day  
 * Reward 1x
 
 
 
-**Special Pass:**&#x20;
+**Special Pass:** 
 
 ****
 
 ![](<../.gitbook/assets/Special pass.png>)
 
-* 5 Match a day
+* 5 Matches p/day
 
-&#x20;     Reward 2.25x
+      Reward 2.25x
 
 
 
@@ -32,15 +32,15 @@ coverY: 0
 
 ![](<../.gitbook/assets/Expert Pass.png>)
 
-* 7 Match a day
+* 7 Matches p/day
 * Reward x2.75
 
 **Pro Pass:**
 
 ![](<../.gitbook/assets/Pro Pass.png>)
 
-* 9 Match a day
-* Reward x3.25&#x20;
+* 9 Matches p/day
+* Reward x3.25 
 
-Cada suscripción  tiene un tiempo de duración, pasado el tiempo tendrás que renovarlo mediante Morki (Mascota Oficial de Crypto One), el cual te cobrara una cantidad de tokens equivalente al precio del Pase.&#x20;
+Each subscription has a duration time and after that time passes you'll have to renew it through Morki (Crypto One Official Mascot). This process will charge you a certain amount of tokens (equivalent to the Pass' price.) 
 

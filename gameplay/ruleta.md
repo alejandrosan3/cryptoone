@@ -1,9 +1,9 @@
-# 🎁 Ruleta
+# 🎁 Roulette
 
-La ruleta le otorga a los jugadores la posibilidad de ganar atractivos premios que pueden ser usados dentro del juego.
+The Roulette gives players the chance to win attractive prizes that can be used within the game.
 
-Para eso se deberá comprar tickets.
+You'll have to buy tickets in order to participate in them
 
-Los items que te otorgara la ruleta tendrán un tiempo de caducidad desde los 10 minutos hasta las 24 horas.
+The items rewarded by the roulette will have an expiration time from 10 minutes to 24 hours.
 
-**Información detallada próximamente.**
+**Detailed information coming soon.**

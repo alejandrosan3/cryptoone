@@ -1,29 +1,30 @@
-# 🪧 Modo de Juego
+# -
 
-**Dueño de Sala :** Cada propietario podrá obtener ganancias por cada partida que se juegue  en su sala.
+**Room Owner:** Each owner will be able to profit from each game that is played in their room.
 
 \------------------------------
 
-**Dueño de Mesa**: Cada Propietario podrá obtener ganancias por cada partida que se juegue en su mesa.
+**Table Owner:** Each owner will be able to profit from each game that is played at their Table.
 
 \-------------------------------
 
-**Apostadores:** Un apostador podrá observar el juego como espectador y podrá apalancar a su jugador favorito.
+**Gamblers:** A gambler will be able to watch the game as a spectator and will be able to bet on their favorite player(s).
 
 \--------------------------------
 
-**Jugador vs Jugador:** Cada jugador posee una cantidad de Energías diarias para poder realizar partidas y a su vez seleccionar cualquiera de los dos modos que el sistema te permite.&#x20;
+**Player vs Player:** Each player has a daily amount of Energies available to play games and/or select any of the two modes that the system will allow you.
 
-* Cantidad mínima de jugadores por partida: 1 vs 1
-* Cantidad Máxima de Jugadores por Partida: 1 vs 3
+* Minimum number of players per match: 1 vs 1
+* Maximum Number of Players per Match: 1 vs 3
 
-**PVP Aleatorio:**
+**Random PVP:**
 
-En este modo, antes de iniciar una partida, el sistema te colocara en una mesa junto a la IA, queriendo decir con esto, que usted se enfrentara a un Bot. Las recompensas sigue siendo la misma antes mencionadas.
+In this mode, the system will place you on a table with an AI (you'll face a Bot), before starting a Match The rewards will remain the same as the ones mentioned above.
 
-**PVP Seleccionable:**
+**Selectable PVP:**
 
-Modo de juego mas empático, en el cual podrás seleccionar mediante "Apodo" a los usuarios con los cuales quieres jugar. En este Modo también, antes de iniciar, podrás ejecutar una apuesta y si todos están de acuerdos la partida iniciara.
+More empathic game mode, in which you can select the users with whom you want to play by "Nickname". In this Mode, you will also be able to make a bet before the match starts and it will start only 
+ if every player agrees with it.
 
 ****
 

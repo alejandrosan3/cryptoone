@@ -1,33 +1,33 @@
-# 💰 Tabla de Ganancia
+# 💰 Profit Table
 
-**Pases :**                                     &#x20;
+**Passes :**                                      
 
-|                                                              |                  Starter                 |                  Special                  |                   Expert                  |                    Pro                    |
+|                                                              | Starter | Special | Expert | Pro |
 | ------------------------------------------------------------ | :--------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| **Precio**                                ****               |                   100$                   |                    350$                   |                    550$                   |                    750$                   |
-| **Partidas Diarias**                                         |                     3                    |                     5                     |                     7                     |                     9                     |
-| **Ganada Por Partida**                                       |                    4$                    |                     9$                    |                    11$                    |                    13$                    |
-| **Ganancias Diarias**                                        |                    12$                   |                    45$                    |                    77$                    |                    117$                   |
-| **Inversión**                                                |              -3,33$ Diarios              |               -11,6$ Diarios              |              -18.33$ Diarios              |              -24.66$ Diarios              |
-| **Membresía Por Mes**                                        |                    -1                    |                     -1                    |                     -1                    |                     -1                    |
-| <mark style="color:purple;">**Ganancia Neta Por Dia**</mark> | <mark style="color:orange;">7.06$</mark> | <mark style="color:orange;">31.33$</mark> | <mark style="color:orange;">56.26$</mark> | <mark style="color:orange;">89.53$</mark> |
+| **Price**                                **** | 100$ | 350$ | 550$ | 750$ |
+| **Daily Matches** | 3 | 5 | 7 | 9 |
+| **Winnings by matches** | 4$ | 9$ | 11$ | 13$ |
+| **Daily Earnings** | 12$ | 45$ | 77$ | 117$ |
+| **Investment** | -3,33$ Daily | -11,6$ Daily | -18.33$ Daily | -24.66$ Daily |
+| **Monthly Membership** | -1 | -1 | -1 | -1 |
+| <mark style="color:purple;">**Net Earnings p/day**</mark> | <mark style="color:orange;">7.06$</mark> | <mark style="color:orange;">31.33$</mark> | <mark style="color:orange;">56.26$</mark> | <mark style="color:orange;">89.53$</mark> |
 
-**NOTA:**                   Ganando el 100% de las partidas diarias.
+**NOTE:**                   Winning 100% of the daily games.
 
-**Alquiler de Salones y Mesas**
+**Rents of rooms and Tables**
 
-**Salones:**
+**Rooms:**
 
-100 Salas al precio de 2500BUSD Con una Ganancia de 140% al mes.
+100 Rooms at the price of 2500 BUSD With a Profit of 140% per month.
 
-**Mesas:**
+**Tables:**
 
-500 Mesas para un Valor de 1500BUSD Con una Ganancia de 130% al mes.
+500 Tables with a price of 1500 BUSD With a Profit of 130% per month.
 
-Los retiros serán diarios de acuerdo a la cuenta 1500x30/100 = 450 /30dias = 15$ Diarios
+Withdrawals will be available daily according to the account 1500x30/100 = 450 /30days = $15 Daily
 
-&#x20;                                                                                2500x40/100 = 1000 /30dias =33$ Diarios
+                                                                                 2500x40/100 = 1000 /30days =33$ Daily
 
-**Nota: El Alquiler de estos items es Mensual, pasado 24 horas luego del vencimiento del contrato, si el arrendatario no renueva su alquiler, este quedara liberado en el Market Place para cualquier otra persona que este interesada, Todo esto para la longevidad de la economía y vida del token.**
+**Note: The rent of these items will be done monthly. The room will be released to the MarketPlace if the tenant does not renew his rent 24 hours after the expiration of the contract, This is done for the token longevity and in all fairness to other users.**
 
 ****

@@ -1,7 +1,7 @@
-# 🎖 Membresía
+# 🎖 Membership
 
-**Membresía Semanal:** Efectiva por 7 días para poder realizar las partidas diarias de tu pase. Aparte de ello recibirás un 5% de descuento  al momento de adquirir consumibles.
+**Weekly Membership:** Valid for 7 days of games according to your pass. You will also receive a 5% discount when purchasing consumables.
 
-Esta membresía solo se podrá comprar en $CONE y tendrá un costo de 7$.
+This membership can only be purchased using $CONE and will cost $7.
 
 &#x20;                                                                    ****                                                                    &#x20;
