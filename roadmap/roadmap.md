@@ -24,4 +24,5 @@
 
 * Updates
 * Exchange Listing
-* Metaverse Building
+* Metaverse Creation
+
