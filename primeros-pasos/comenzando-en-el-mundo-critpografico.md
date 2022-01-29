@@ -1,12 +1,12 @@
-# ⚙ Comenzando en el mundo Critpografico
+# ⚙ Starting in the Crypto world
 
-Para comenzar su camino a través del Metaverso de **Crypto One,** necesitará 3 cosas:
+You will need 3 things to get things rolling in **the Crypto One** Metaverse:
 
-* Una billetera web3 instalada (se recomienda metamask)
-* **$ BNB** para pagar las tarifas de GAS en Binance Smart Chain Network
-* **$ CONE** que puedes comprar en Pancake Swap.
+* An installed web3 wallet (metamask recommended)
+* **$BNB** to pay GAS fees on Binance Smart Chain Network
+* **$CONE** that you can buy at Swaps.
 
-El primer paso se puede dar leyendo este documento, que debería ayudarlo a instalar su billetera y BSC Mainnet en él: https://docs.binance.org/smart-chain/wallet/metamask.html
+The first step can be taken by reading this document, which should help you install your wallet and BSC Mainnet on it: https://docs.binance.org/smart-chain/wallet/metamask.html
 
-Luego de haber realizado todos los pasos y tener instalado su web3, podra proceder a adquirir el token $ CONE en PancakeSwap o Poocoin.
+After having completed all the steps and having your web3 installed, you can proceed to acquire the $ CONE token in PancakeSwap or Poocoin.
 

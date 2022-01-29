@@ -1,9 +1,9 @@
-# 👜 Mercado
+# 👜 Market
 
-Habrá un mercado interno  donde los jugadores podrán mejorar sus salas, Pases y Mesas,  permitiéndoles comerciar, vender o adquirir cosas nuevas.&#x20;
+There will be an internal market where players can upgrade their rooms, Passes, and Tables, allowing them to trade, sell or purchase new things. 
 
-Estas operaciones tendrán un costo de impuestos del 10% por usar el mercado en cualquiera de sus formas y se devolverán al Fondo de Recompensas.
+These operations will have a 10% tax for using the market in any of its forms and will be returned to the Rewards Fund.
 
-El mercado usará **$CONE** como su token predeterminado y los usuarios estipularán el precio de su ítem como mejor les parezca, ¡así que permanece atento a las próximas ofertas!
+The marketplace will **use $**CONE as its default token and users will price their item as they see fit, so stay tuned for upcoming deals!
 
-Los **Pases vencidos** no se pueden incluir en el Marketplace.
+**Expired Passes** cannot be listed on the Marketplace.
