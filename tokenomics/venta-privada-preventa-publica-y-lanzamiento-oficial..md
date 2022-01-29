@@ -1,15 +1,15 @@
-# 🚀 Venta Privada, Preventa Publica y Lanzamiento Oficial.
+# 🚀 Private Sale, Public Presale and Official Launch.
 
-**Venta Privada**
+**PRIVATE SALE**
 
-Para Financiar el proyecto, el equipo de CryptoOne ha decidido realizar una venta Privada, la cual tendrá el valor de 0.0005 BNB por Token (2000 Tokens = 1 BNB) . La cantidad máxima a recolectar es de 100 BNB para un total de 4% del supply. **** Toda esta recolección ira destinada a la siguiente wallet 0x57f69bb04A53bFe02A49Fda60206190CCF83e818.
+The CryptoOne team has decided to carry out a Private sale of 0.0005 BNB per Token (2000 Tokens = 1 BNB) to help finance the project. The maximum amount to collect is 100 BNB for a total of 4% of the supply. **** everything that will be collected will go to the following wallet 0x57f69bb04A53bFe02A49Fda60206190CCF83e818.
 
-**Preventa Publica**
+**public presale**
 
-Posterior a la conclusión de la Venta Privada, se procederá a realizar la preventa publica del token, que comprenderá un total del 12% del supply.
+The token's public presale will start after the Private Sale is over, and will have a total of 12% of the supply.
 
-El mismo se dará bajo un precio de 0.001 BNB por token (950 Tokens = 1 BNB). Esta preventa se realizara por la plataforma Dxsale.
+It will have a price of 0.001 BNB per token (950 Tokens = 1 BNB). This pre-sale will be made through the Dxsale platform.
 
-**Lanzamiento Oficial**
+**Official Release**
 
-Para  finales de febrero y/o Principios de marzo , luego de finalizada la preventa publica, el token $CONE será lanzado oficialmente en PancakeSwap, podrás hacer trading con un Slippage de 3%, y tendrá un valor de 850 Tokens por BNB.
+After the public presale is over by the end of February and/or the beginning of March, the $CONE token will be officially launched on PancakeSwap. You will be able to trade with a 3% Slippage, and its price will have a value of 850 Tokens per BNB.

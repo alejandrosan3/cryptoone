@@ -1,16 +1,16 @@
-# ℹ Informacion del Token
+# ℹ Token Information
 
-![](<../.gitbook/assets/Chart ONE Grey toknemoicis (1).png>)
+![](<../.gitbook/assets/Chart ONE Gray toknemoicis (1).png>)
 
 
 
-| Distribucion           | Tokens   | Bloqueo                     |
+| Distribution | Tokens | Block |
 | ---------------------- | -------- | --------------------------- |
-| Airdrop                | 150.000  | -                           |
-| Preventa privada       | 200.000  | TGE 40%, luego 10% semanal. |
-| Desarrolladores        | 500.000  | Bloqueado por 8 meses.      |
-| Liquidez               | 500.000  | Bloqueada por 12 meses.     |
-| Preventa publica       | 600.000  | -                           |
-| Marketing y desarrollo | 850.000  | -                           |
-| Juego                  | 2.200.00 | Bloqueada por 12 meses.     |
+| Airdrop | 150,000 | - |
+| Private Presale | 200,000 | TGE 40%, then 10% weekly. |
+| Developers | 500,000 | Blocked for 8 months. |
+| Liquidity | 500,000 | Locked for 12 months. |
+| public presale | 600,000 | - |
+| Marketing and development | 850,000 | - |
+| Set | 2.200.00 | Locked for 12 months. |
 
