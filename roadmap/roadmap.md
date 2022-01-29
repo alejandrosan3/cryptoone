@@ -15,8 +15,8 @@
 * Game launch (Influencers)
 * Passes, tables and rooms Presale.
 * Token Presale.
-* Official game launch.
-* Official token launch
+* Official game release.
+* Official token release
 * Coingecko Listing request
 * Coinmarketcap Listing request
 
