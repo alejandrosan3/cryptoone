@@ -2,39 +2,39 @@
 
 * [Crypto One](README.md)
 
-## GamePlay
+## Gameplay
 
-* [🎯 Objetivo](gameplay/objetivo.md)
-* [🗃 Mazo de Cartas](gameplay/mazo-de-cartas.md)
-* [💳 Tarjetas de Pase](gameplay/tarjetas-de-pase.md)
-* [🎖 Membresía](gameplay/membresia.md)
-* [👁 Reglamento](gameplay/reglamento.md)
-* [🪧 Modo de Juego](gameplay/modo-de-juego.md)
-* [💰 Tabla de Ganancia](gameplay/tabla-de-ganancia.md)
-* [🎁 Ruleta](gameplay/ruleta.md)
-* [🏅 Weekly Reward](gameplay/weekly-reward.md)
+* [🎯 Goal](gameplay/objetivo.md)
+* [🗃 Deck of Cards](gameplay/mazo-de-cartas.md)
+* [💳 Pass Cards](gameplay/tarjetas-de-pase.md)
+* [🎖 Membership](gameplay/membresia.md)
+* [👁 Rules](gameplay/reglamento.md)
+* [-](gameplay/modo-de-juego.md)
+* [💰 Profit Table](gameplay/tabla-de-ganancia.md)
+* [🎁 Roulette](gameplay/ruleta.md)
+* [🏅 Weekly Rewards](gameplay/weekly-reward.md)
 
-## Mercado
+## Market
 
-* [👜 Mercado](mercado/mercado.md)
-* [🔥 Consumibles](mercado/consumibles.md)
+* [👜 Market](mercado/mercado.md)
+* [🔥 Consumables](mercado/consumibles.md)
 
 ## Tokenomics
 
-* [ℹ Informacion del Token](tokenomics/informacion-del-token.md)
-* [🚀 Venta Privada, Preventa Publica y Lanzamiento Oficial.](tokenomics/venta-privada-preventa-publica-y-lanzamiento-oficial..md)
+* [ℹ Token Information](tokenomics/informacion-del-token.md)
+* [🚀 Private Sale, Public Presale and Official Launch.](tokenomics/venta-privada-preventa-publica-y-lanzamiento-oficial..md)
 
-## Recompensas
+## Rewards
 
-* [❗ Retiro de Recompensas](recompensas/retiro-de-recompensas.md)
-* [👑 Claim (Oraculo Inverso)](recompensas/claim-oraculo-inverso.md)
-* [😱 Oraculo 3.1](recompensas/oraculo-3.1.md)
+* [❗ Withdraw Rewards](recompensas/retiro-de-recompensas.md)
+* [👑 Claim (Reverse Oracle)](recompensas/claim-oraculo-inverso.md)
+* [😱 Oracle 3.1](recompensas/oraculo-3.1.md)
 
-## RoadMap
+## ROADMAP
 
 * [🗺 RoadMap](roadmap/roadmap.md)
-* [✅ Auditoria](roadmap/auditoria.md)
+* [Auditing](roadmap/auditoria.md)
 
-## Primeros Pasos
+## First steps
 
-* [⚙ Comenzando en el mundo Critpografico](primeros-pasos/comenzando-en-el-mundo-critpografico.md)
+* [⚙ Starting in the Crypto world](primeros-pasos/comenzando-en-el-mundo-critpografico.md)

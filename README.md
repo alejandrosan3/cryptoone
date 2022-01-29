@@ -6,10 +6,10 @@ coverY: 0
 
 # Crypto One
 
-**CryptoOne** es un juego NFT de Mesa “Play To Earn”  diseñado para brindar a los usuarios una experiencia divertida al recolectar **$CONE** proveniente de las partidas ganadas.
+**CryptoOne** is a “Play To Earn” NFT Table Game designed to give users a fun experience of collecting **$**CONE from winning games.
 
-**CryptoOne** tiene como objetivo ser el mejor juego de mesa **** en la cadena de bloques, al tiempo que permite a sus usuarios disfrutar de ser parte de una mesa competitiva, la emoción del juego estratégico y por supuesto ganar **$CONE**.
+**CryptoOne** aims to be the best **** board game on the blockchain, while allowing its users to enjoy being a part of a competitive table, the thrill of strategic play, and of course earning **$CONE**.
 
-El juego se implementa en la **Binance Smart Chain** y es compatible con carteras web3 como MetaMask, que se utilizarán para aceptar transacciones y pagar las tarifas del gas. **MetaMask** se puede instalar como una extensión del navegador o como una aplicación en sus dispositivos móviles.&#x20;
+The game is implemented on the **Binance Smart Chain** and is compatible with web3 wallets such as MetaMask, which will be used to accept transactions and pay gas fees. **MetaMask** can be installed as a browser extension or as an app on your mobile devices.
 
-Los activos son **** propiedad de los jugadores que pueden negociarse en nuestro mercado o venderlos a través de P2P a otro jugador.
+Assets are **** owned by players which can be traded on our marketplace or sold via P2P to another player.
