@@ -12,7 +12,7 @@
 * [🪧 Modo de Juego](gameplay/modo-de-juego.md)
 * [💰 Tabla de Ganancia](gameplay/tabla-de-ganancia.md)
 * [🎁 Ruleta](gameplay/ruleta.md)
-* [🏅 Weekly Reward](gameplay/weekly-reward.md)
+* [🏅 Recompensas Semanales](gameplay/recompensas-semanales.md)
 
 ## Mercado
 
