@@ -12,7 +12,7 @@
 * [🪧 Gameplay](gameplay/modo-de-juego.md)
 * [💰 Profit Table](gameplay/tabla-de-ganancia.md)
 * [🎁 Roulette](gameplay/ruleta.md)
-* [🏅 Weekly Rewards (Editar Alejandro)](gameplay/weekly-reward.md)
+* [🏅 Weekly Rewards](gameplay/weekly-reward.md)
 
 ## Market
 
