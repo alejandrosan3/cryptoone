@@ -39,7 +39,7 @@ coverY: 0
 ![](<../.gitbook/assets/Pro Pass.png>)
 
 * 9 partidas por dia
-* Reward 1x&#x20;
+* Reward 1x
 
-Cada suscripción  tiene un tiempo de duración, pasado el tiempo tendrás que renovarlo mediante Morki (Mascota Oficial de Crypto One), el cual te cobrara una cantidad de tokens equivalente al precio del Pase.&#x20;
+Cada suscripción  tiene un tiempo de duración, pasado el tiempo tendrás que renovarlo y durante el proceso se te cobrará una cantidad de tokens (equivalente al precio del Pase).
 
