@@ -5,10 +5,7 @@ coverY: 0
 
 # 💳 Tarjetas de Pase
 
-**Starter Pass:**                  &#x20;
-
-&#x20;                                                                         ****                                                                         &#x20;
-
+**Starter Pass:**                
 ![](<../.gitbook/assets/Starter Pass (1).png>)
 
 * 3 partidas por dia &#x20;
