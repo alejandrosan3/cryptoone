@@ -5,7 +5,8 @@ coverY: 0
 
 # 💳 Tarjetas de Pase
 
-**Starter Pass:**                
+**Starter Pass:**                  &#x20;                                                                     ****                                                                         
+
 ![](<../.gitbook/assets/Starter Pass (1).png>)
 
 * 3 partidas por dia &#x20;
@@ -36,7 +37,7 @@ coverY: 0
 ![](<../.gitbook/assets/Pro Pass.png>)
 
 * 9 partidas por dia
-* Reward 1x
+* Reward 1x&#x20;
 
-Cada suscripción  tiene un tiempo de duración, pasado el tiempo tendrás que renovarlo y durante el proceso se te cobrará una cantidad de tokens (equivalente al precio del Pase).
+Cada suscripción  tiene un tiempo de duración, pasado el tiempo tendrás que renovarlo y durante el proceso se te cobrará una cantidad de tokens equivalente al precio del Pase).
 
