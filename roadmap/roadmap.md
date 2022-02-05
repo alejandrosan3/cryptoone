@@ -5,10 +5,10 @@
 * Pagina Web&#x20;
 * Whitepaper&#x20;
 * Redes Sociales y de Información
+* Creación del juego
 * Contrato Inteligente &#x20;
 * Venta Privada&#x20;
 * Marketing&#x20;
-* Creacion del juego
 
 **Fase 2**
 

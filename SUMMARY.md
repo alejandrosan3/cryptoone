@@ -12,7 +12,7 @@
 * [🪧 Modo de Juego](gameplay/modo-de-juego.md)
 * [💰 Tabla de Ganancia](gameplay/tabla-de-ganancia.md)
 * [🎁 Ruleta](gameplay/ruleta.md)
-* [🏅 Weekly Reward](gameplay/weekly-reward.md)
+* [🏅 Recompensas Semanales](gameplay/recompensas-semanales.md)
 
 ## Mercado
 
@@ -27,8 +27,8 @@
 ## Recompensas
 
 * [❗ Retiro de Recompensas](recompensas/retiro-de-recompensas.md)
-* [👑 Claim (Oraculo Inverso)](recompensas/claim-oraculo-inverso.md)
-* [😱 Oraculo 3.1](recompensas/oraculo-3.1.md)
+* [😱 Sistema TX de Orion Tech](recompensas/sistema-tx-de-orion-tech.md)
+* [👑 Claim](recompensas/claim.md)
 
 ## RoadMap
 

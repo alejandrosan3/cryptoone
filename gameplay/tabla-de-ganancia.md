@@ -2,15 +2,15 @@
 
 **Pases :**                                     &#x20;
 
-|                                                              |                  Starter                 |                  Special                  |                   Expert                  |                    Pro                    |
-| ------------------------------------------------------------ | :--------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| **Precio**                                ****               |                   100$                   |                    350$                   |                    550$                   |                    750$                   |
-| **Partidas Diarias**                                         |                     3                    |                     5                     |                     7                     |                     9                     |
-| **Ganada Por Partida**                                       |                    4$                    |                     9$                    |                    11$                    |                    13$                    |
-| **Ganancias Diarias**                                        |                    12$                   |                    45$                    |                    77$                    |                    117$                   |
-| **Inversión**                                                |              -3,33$ Diarios              |               -11,6$ Diarios              |              -18.33$ Diarios              |              -24.66$ Diarios              |
-| **Membresía Por Mes**                                        |                    -1                    |                     -1                    |                     -1                    |                     -1                    |
-| <mark style="color:purple;">**Ganancia Neta Por Dia**</mark> | <mark style="color:orange;">7.06$</mark> | <mark style="color:orange;">31.33$</mark> | <mark style="color:orange;">56.26$</mark> | <mark style="color:orange;">89.53$</mark> |
+|                                                              |                  Starter                 |                  Special                  |                   Expert                  |                    Pro                   |
+| ------------------------------------------------------------ | :--------------------------------------: | :---------------------------------------: | :---------------------------------------: | :--------------------------------------: |
+| **Precio**                                ****               |                   100$                   |                    350$                   |                    550$                   |                   750$                   |
+| **Partidas Diarias**                                         |                     3                    |                     5                     |                     7                     |                     9                    |
+| **Ganada Por Partida**                                       |                   3,2$                   |                    6,3$                   |                     7$                    |                   7,3$                   |
+| **Ganancias Diarias**                                        |                   9,6$                   |                   31,5$                   |                    49$                    |                   65,7$                  |
+| **Inversión**                                                |              -4,33$ Diarios              |              -13,16$ Diarios              |              -20,33$ Diarios              |              -27.5$ Diarios              |
+| **Membresía Por Mes**                                        |                    -1                    |                    -1,5                   |                     -2                    |                   -2,5                   |
+| <mark style="color:purple;">**Ganancia Neta Por Dia**</mark> | <mark style="color:orange;">3.66$</mark> | <mark style="color:orange;">15.83$</mark> | <mark style="color:orange;">25.26$</mark> | <mark style="color:orange;">33.9$</mark> |
 
 **NOTA:**                   Ganando el 100% de las partidas diarias.
 

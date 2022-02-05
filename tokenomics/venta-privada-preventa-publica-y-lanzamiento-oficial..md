@@ -1,5 +1,11 @@
 # 🚀 Venta Privada, Preventa Publica y Lanzamiento Oficial.
 
+**Venta de tickets**
+
+Se venderán la cantidad total de 3000 tickets los cuales te darán la posibilidad de entrar en la preventa pública del token y la preventa de los pases.
+
+Los mismos tendrán un valor de 50$.
+
 **Venta Privada**
 
 Para Financiar el proyecto, el equipo de CryptoOne ha decidido realizar una venta Privada, la cual tendrá el valor de 0.0005 BNB por Token (2000 Tokens = 1 BNB) . La cantidad máxima a recolectar es de 100 BNB para un total de 4% del supply. **** Toda esta recolección ira destinada a la siguiente wallet 0x57f69bb04A53bFe02A49Fda60206190CCF83e818.
