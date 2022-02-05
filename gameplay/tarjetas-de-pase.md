@@ -41,4 +41,4 @@ coverY: 0
 * 9 Matches p/day
 * Reward x3.25
 
-Each subscription has a duration time and after that time passes you'll have to renew it through Morki (Crypto One Official Mascot). This process will charge you a certain amount of tokens (equivalent to the Pass' price.)
+Each subscription has a duration time and after that time passes you'll have to renew it. This process will charge you a certain amount of tokens (equivalent to the Pass' price.)
