@@ -9,6 +9,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Starter Pass (1).png>)
 
+* Price: 100$
 * 3 Matches p/day
 * Reward 1x
 
@@ -20,6 +21,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Special pass.png>)
 
+* Price: 350$
 * 5 Matches p/day
 * Reward 1x
 
@@ -29,6 +31,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Expert Pass.png>)
 
+* Price: 550$
 * 7 Matches p/day
 * Reward 1x
 
@@ -38,7 +41,12 @@ coverY: 0
 
 ![](<../.gitbook/assets/Pro Pass.png>)
 
+* Price: 750$
 * 9 Matches p/day
 * Reward 1x
 
-Each subscription has a duration time and after that time passes you'll have to renew. This process will charge you a certain amount of tokens (equivalent to the Pass' price.)
+
+**Note:**
+* The passes are paid monthly and it will be released to the market if the renter fails to renew them 24h passed their due date. This is done to ensure the longevity of the economy and its tokens life.
+
+* You also need a membership in order to access the Crypto One project as an investor.
