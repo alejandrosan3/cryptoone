@@ -4,4 +4,12 @@
 
 Esta membresía solo se podrá comprar en $CONE y tendrá un costo de 7$.
 
-&#x20;                                                                    ****                                                                    &#x20;
+***
+**Precios de los pases:**
+
+* **Starter:** 30$
+* **Starter:** 45$
+* **Starter:** 60$
+* **Starter:** 75$
+
+***
