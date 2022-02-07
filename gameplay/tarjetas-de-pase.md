@@ -9,7 +9,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Starter Pass (1).png>)
 
-* Costo: 30$
+* Costo: 100$
 * 3 partidas por dia
 * Reward 1x
 
@@ -19,7 +19,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Special pass.png>)
 
-* Costo: 45$
+* Costo: 350$
 * 5 partidas por dia
 * Reward 1x
 
@@ -27,7 +27,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/Expert Pass.png>)
 
-* Costo: 60$
+* Costo: 550$
 * 7 partidas por dia
 * Reward 1x
 
@@ -35,8 +35,14 @@ coverY: 0
 
 ![](<../.gitbook/assets/Pro Pass.png>)
 
-* Costo: 75$
+* Costo: 750$
 * 9 partidas por dia
 * Reward 1x
 
-**Nota:** El Alquiler de estos items es Mensual, pasado 24 horas luego del vencimiento del contrato, si el arrendatario no renueva su alquiler, este quedara liberado en el Market Place para cualquier otra persona que este interesada, Todo esto se hace para la longevidad de la economía y vida del token.
+
+
+**Notas:** 
+
+* El Alquiler de estos items es Mensual, pasado 24 horas luego del vencimiento del contrato, si el arrendatario no renueva su alquiler, este quedara liberado en el Market Place para cualquier otra persona que este interesada, Todo esto se hace para la longevidad de la economía y vida del token.
+
+* Estos precios son adicionales a los precios de las membresías y ambos son necesarios para poder acceder como inversor, al proyecto Crypto One. 
