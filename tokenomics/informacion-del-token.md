@@ -14,3 +14,5 @@
 | Marketing y desarrollo | 850.000  | -                           |
 | Juego                  | 2.200.00 | Bloqueada por 12 meses.     |
 
+**Nota:** Se cobrará un fee del 3% en cada transacción de compra/venta que irá directamente al pool de liquidez
+
