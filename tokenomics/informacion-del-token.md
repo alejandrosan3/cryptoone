@@ -11,3 +11,5 @@
 | public presale            | 600,000  | -                         |
 | Marketing and development | 850,000  | -                         |
 | Game                      | 2.200.00 | Locked for 12 months.     |
+
+**Please note:** A transaction fee of 3% will be charged and destined to the project's liquidity pool.

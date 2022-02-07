@@ -16,8 +16,8 @@
 
 ## Market
 
-* [👜 Market](mercado/mercado.md)
-* [🔥 Consumables](mercado/consumibles.md)
+* [👜 Market](market/mercado.md)
+* [🔥 Consumables](market/consumibles.md)
 
 ## Tokenomics
 
@@ -26,9 +26,8 @@
 
 ## Rewards
 
-* [❗ Withdraw Rewards](recompensas/retiro-de-recompensas.md)
-* [👑 Claim (Reverse Oracle)](recompensas/claim-oraculo-inverso.md)
-* [😱 Oracle 3.1](recompensas/oraculo-3.1.md)
+* [❗ Withdrawal Rewards](rewards/retiro-de-recompensas.md)
+* [😱 Orion Tech's TX System](rewards/oraculo-3.1.md)
 
 ## ROADMAP
 
@@ -37,4 +36,4 @@
 
 ## First steps
 
-* [⚙ Starting in the Crypto world](primeros-pasos/comenzando-en-el-mundo-critpografico.md)
+* [⚙ Starting in the Crypto world](first-steps/comenzando-en-el-mundo-critpografico.md)

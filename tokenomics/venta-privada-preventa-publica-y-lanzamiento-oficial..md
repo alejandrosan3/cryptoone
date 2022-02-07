@@ -1,6 +1,12 @@
 # 🚀 Private Sale, Public Presale and Official Launch.
 
-**PRIVATE SALE**
+**Ticket sale**
+
+A total amount of 3000 tickets will be sold. they will give you the possibility to access the public token and passes presale.
+
+The tickets will each cost 50$.
+
+**Private sale**
 
 The CryptoOne team has decided to carry out a Private sale of 0.0005 BNB per Token (2000 Tokens = 1 BNB) to help finance the project. The maximum amount to collect is 100 BNB for a total of 4% of the supply. \*\*\*\* everything that will be collected will go to the following wallet **0x57f69bb04A53bFe02A49Fda60206190CCF83e818**.
 

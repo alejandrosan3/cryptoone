@@ -2,15 +2,15 @@
 
 **Passes :**
 
-|                                                           |                  Starter                 |                  Special                  |                   Expert                  |                    Pro                    |
-| --------------------------------------------------------- | :--------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| **Price**                                                 |                   100$                   |                    350$                   |                    550$                   |                    750$                   |
-| **Daily Matches**                                         |                     3                    |                     5                     |                     7                     |                     9                     |
-| **Winnings by matches**                                   |                    4$                    |                     9$                    |                    11$                    |                    13$                    |
-| **Daily Earnings**                                        |                    12$                   |                    45$                    |                    77$                    |                    117$                   |
-| **Investment**                                            |               -3,33$ Daily               |                -11,6$ Daily               |               -18,33$ Daily               |               -24.66$ Daily               |
-| **Monthly Membership**                                    |                    -1                    |                     -1                    |                     -1                    |                     -1                    |
-| <mark style="color:purple;">**Net Earnings p/day**</mark> | <mark style="color:orange;">7.06$</mark> | <mark style="color:orange;">31.33$</mark> | <mark style="color:orange;">56.26$</mark> | <mark style="color:orange;">89.53$</mark> |
+|                                                           |                  Starter                 |                  Special                  |                   Expert                  |                    Pro                   |
+| --------------------------------------------------------- | :--------------------------------------: | :---------------------------------------: | :---------------------------------------: | :--------------------------------------: |
+| **Price**                                                 |                   100$                   |                    350$                   |                    550$                   |                   750$                   |
+| **Daily Matches**                                         |                     3                    |                     5                     |                     7                     |                     9                    |
+| **Winnings by matches**                                   |                   3.2$                   |                    6.3$                   |                     7$                    |                    7,3                   |
+| **Daily Earnings**                                        |                   9.6$                   |                   31.5$                   |                    49$                    |                   65.7$                  |
+| **Investment**                                            |               -4.33$ Daily               |               -13,16$ Daily               |               -20,33$ Daily               |               -27.5$ Daily               |
+| **Monthly Membership**                                    |                    -1                    |                    -1.5                   |                     -2                    |                   -2.5                   |
+| <mark style="color:purple;">**Net Earnings p/day**</mark> | <mark style="color:orange;">3.66$</mark> | <mark style="color:orange;">15.83$</mark> | <mark style="color:orange;">25.26$</mark> | <mark style="color:orange;">33.9$</mark> |
 
 **NOTE:**                   Winning 100% of the daily games.
 
