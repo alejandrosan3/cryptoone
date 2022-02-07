@@ -28,7 +28,6 @@
 
 * [❗ Retiro de Recompensas](recompensas/retiro-de-recompensas.md)
 * [😱 Sistema TX de Orion Tech](recompensas/sistema-tx-de-orion-tech.md)
-* [👑 Claim](recompensas/claim.md)
 
 ## RoadMap
 
