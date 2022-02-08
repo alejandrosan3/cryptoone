@@ -6,13 +6,9 @@
 
 **Dueño de Mesa**: Cada Propietario podrá obtener ganancias por cada partida que se juegue en su mesa.
 
-\-------------------------------
-
-**Apostadores:** Un apostador podrá observar el juego como espectador y podrá apalancar a su jugador favorito.
-
 \--------------------------------
 
-**Jugador vs Jugador:** Cada jugador posee una cantidad de Energías diarias para poder realizar partidas y a su vez seleccionar cualquiera de los dos modos que el sistema te permite.&#x20;
+**Jugador vs Jugador:** Cada jugador posee una cantidad de Energías diarias para poder realizar partidas y a su vez seleccionar cualquiera de los dos modos que el sistema te permite.
 
 * Cantidad mínima de jugadores por partida: 1 vs 1
 * Cantidad Máxima de Jugadores por Partida: 1 vs 3
