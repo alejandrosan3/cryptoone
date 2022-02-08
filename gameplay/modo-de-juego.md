@@ -8,10 +8,6 @@
 
 \-------------------------------
 
-**Gamblers:** A gambler will be able to watch the game as a spectator and will be able to bet on their favorite player(s).
-
-\--------------------------------
-
 **Player vs Player:** Each player has a daily amount of Energies available to play games and/or select any of the two modes that the system will allow you.
 
 * Minimum number of players per match: 1 vs 1
