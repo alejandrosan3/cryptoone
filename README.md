@@ -6,7 +6,7 @@ coverY: 0
 
 # Crypto One
 
-**CryptoOne** is a “Play To Earn” NFT Table Game designed to give users a fun experience of collecting **$CONE** from winning games.
+**CryptoOne** is a “Play To Earn” NFT Board Game designed to give users a fun experience of collecting **$CONE** from winning games.
 
 **CryptoOne** aims to be the best board game on the blockchain, while allowing its users to enjoy being a part of a competitive table, the thrill of strategic play, and of course earning **$CONE**.
 
