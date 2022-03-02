@@ -18,4 +18,4 @@ El mismo se dará bajo un precio de 0.001 BNB por token (950 Tokens = 1 BNB). Es
 
 **Lanzamiento Oficial**
 
-Para  finales de febrero y/o Principios de marzo , luego de finalizada la preventa publica, el token $CONE será lanzado oficialmente en PancakeSwap, podrás hacer trading con un Slippage de 3%, y tendrá un valor de 850 Tokens por BNB.
+Para mediados o final de marzo, luego de finalizada la preventa publica, el token $CONE será lanzado oficialmente en PancakeSwap. Podrás hacer trading con un Slippage de 3% y tendrá un valor de 850 Tokens por BNB.
