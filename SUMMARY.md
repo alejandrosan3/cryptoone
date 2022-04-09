@@ -4,15 +4,15 @@
 
 ## Gameplay
 
-* [🎯 Goal](gameplay/objetivo.md)
-* [🗃 Deck of Cards](gameplay/mazo-de-cartas.md)
-* [💳 Pass Cards](gameplay/tarjetas-de-pase.md)
-* [🎖 Membership](gameplay/membresia.md)
-* [👁 Rules](gameplay/reglamento.md)
-* [🪧 Gameplay](gameplay/modo-de-juego.md)
-* [💰 Profit Table](gameplay/tabla-de-ganancia.md)
-* [🎁 Roulette](gameplay/ruleta.md)
-* [🏅 Weekly Rewards](gameplay/weekly-reward.md)
+* [🎯 Goal](gameplay/goal.md)
+* [🗃 Deck of Cards](gameplay/cards-deck.md)
+* [💳 Pass Cards](gameplay/pass-cards.md)
+* [🎖 Membership](gameplay/membership.md)
+* [👁 Rules](gameplay/rules.md)
+* [🪧 Gameplay](gameplay/gameplay.md)
+* [💰 Profit Table](gameplay/profit-table.md)
+* [🎁 Roulette](gameplay/roulette.md)
+* [🏅 Weekly Rewards](gameplay/weekly-rewards.md)
 
 ## Market
 
