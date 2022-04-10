@@ -16,24 +16,24 @@
 
 ## Market
 
-* [👜 Market](market/mercado.md)
-* [🔥 Consumables](market/consumibles.md)
+* [👜 Market](market/market.md)
+* [🔥 Consumables](market/consumables.md)
 
 ## Tokenomics
 
-* [ℹ Token Information](tokenomics/informacion-del-token.md)
-* [🚀 Private Sale, Public Presale and Official Launch.](tokenomics/venta-privada-preventa-publica-y-lanzamiento-oficial..md)
+* [ℹ Token Information](tokenomics/token-info.md)
+* [🚀 Private Sale, Public Presale and Official Launch.](tokenomics/private-public-presale-launch.md)
 
 ## Rewards
 
-* [❗ Withdrawal Rewards](rewards/retiro-de-recompensas.md)
-* [😱 Orion Tech's TX System](rewards/oraculo-3.1.md)
+* [❗ Withdrawal Rewards](rewards/withdrawal.md)
+* [😱 Orion Tech's TX System](rewards/orion-tx-system.md)
 
 ## ROADMAP
 
 * [🗺 RoadMap](roadmap/roadmap.md)
-* [✅ Auditing](roadmap/auditoria.md)
+* [✅ Auditing](roadmap/auditing.md)
 
 ## First steps
 
-* [⚙ Starting in the Crypto world](first-steps/comenzando-en-el-mundo-critpografico.md)
+* [⚙ Starting in the Crypto world](first-steps/getting-started.md)
