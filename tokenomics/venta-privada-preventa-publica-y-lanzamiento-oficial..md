@@ -8,10 +8,9 @@ Los mismos tendrán un valor de 50$.
 
 El monto recaudado se utilizará para saldar los costos de auditoría, de una segunda oleada de marketing y el resto será inyectado en la liquidez del token.
 
-
 **Venta Privada**
 
-Para Financiar el proyecto, el equipo de CryptoOne ha decidido realizar una venta Privada, la cual tendrá el valor de 0.0005 BNB por Token (2000 Tokens = 1 BNB) . La cantidad máxima a recolectar es de 100 BNB para un total de 4% del supply. **** Toda esta recolección ira destinada a la siguiente wallet 0x57f69bb04A53bFe02A49Fda60206190CCF83e818.
+Para Financiar el proyecto, el equipo de CryptoOne ha decidido realizar una venta Privada, la cual tendrá el valor de 0.0005 BNB por Token (2000 Tokens = 1 BNB) . La cantidad máxima a recolectar es de 100 BNB para un total de 4% del supply.
 
 **Preventa Publica**
 
