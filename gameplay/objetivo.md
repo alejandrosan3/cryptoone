@@ -4,5 +4,4 @@ En el inicio, una vez barajado el mazo y repartidas las 7 cartas a cada jugador,
 
 Cuando llega el turno de cada jugador, este está obligado a tirar una carta del color que se está jugando o una carta con el mismo número que han tirado antes de ese turno. De manera que si se está jugando rojo y nos tiran un 5 rojo y, por caso, nosotros tenemos un 5 verde, podemos tirar ese 5 y cambia el color con lo que los demás jugadores deberán seguir tirando verde. Si no se tiene una carta del color o del número que nos han tirado y tampoco se tiene una carta especial, el jugador debe llevarse una carta del mazo como penalidad.
 
-El objetivo del juego es deshacerse de todas las cartas con las que se juegan desde el inicio (siete cada jugador) más las que se van robando en el medio del juego. Y al quedarnos con una carta en la mano debemos pulsar el botón "Cone" lo mas rápido que pueda, puesto que si no lo hacemos y nuestros rivales lo advierten, nos penalizaran haciéndonos robar otra carta del mazo.
-
+El objetivo del juego es deshacerse de todas las cartas con las que se juegan desde el inicio (siete cada jugador) más las que se van robando en el medio del juego. Antes de lanzar la penultima carta que nos queda en la mano debemos pulsar el botón "ONE" puesto que si no lo hacemos, el sistema nos penalizará haciéndonos robar otra carta del mazo.
