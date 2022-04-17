@@ -9,7 +9,7 @@
 | **Ganada Por Partida**                                       |                   3,2$                   |                    6,3$                   |                     7$                    |                   7,3$                   |
 | **Ganancias Diarias**                                        |                   9,6$                   |                   31,5$                   |                    49$                    |                   65,7$                  |
 | **Inversión**                                                |              -4,33$ Diarios              |              -13,16$ Diarios              |              -20,33$ Diarios              |              -27.5$ Diarios              |
-| **Tx por transaccion**                                       |                   -0,60                  |                     -1                    |                    -1,4                   |                   -1,8                   |
+| **Transacción**                                              |                   -0,60                  |                     -1                    |                    -1,4                   |                   -1,8                   |
 | <mark style="color:purple;">**Ganancia Neta Por Dia**</mark> | <mark style="color:orange;">4,66$</mark> | <mark style="color:orange;">17,33$</mark> | <mark style="color:orange;">27,26$</mark> | <mark style="color:orange;">36,4$</mark> |
 
 **NOTA:** Ganando el 100% de las partidas diarias.
