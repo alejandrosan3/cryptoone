@@ -9,7 +9,7 @@
 | **Winnings by matches**                                   |                   3.2$                   |                    6.3$                   |                     7$                    |                    7,3                   |
 | **Daily Earnings**                                        |                   9.6$                   |                   31.5$                   |                    49$                    |                   65.7$                  |
 | **Investment**                                            |               -4.33$ Daily               |               -13,16$ Daily               |               -20,33$ Daily               |               -27.5$ Daily               |
-| **Transaction Tax**                                       |                  -0. 60                  |                     -1                    |                    -1.4                   |                   -1.8                   |
+| **Transaction**                                           |                  -0. 60                  |                     -1                    |                    -1.4                   |                   -1.8                   |
 | <mark style="color:purple;">**Net Earnings p/day**</mark> | <mark style="color:orange;">4.66$</mark> | <mark style="color:orange;">17.33$</mark> | <mark style="color:orange;">27.26$</mark> | <mark style="color:orange;">36.4$</mark> |
 
 **NOTE:** Winning 100% of the daily games.
