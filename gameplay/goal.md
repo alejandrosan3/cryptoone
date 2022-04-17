@@ -4,5 +4,4 @@ Once the deck has been shuffled at the beginning of the game, and the 7 cards ha
 
 When each player's turn comes, they are forced to throw a card of the color that is being played or a card with the same number that they have thrown before that turn. For example: if we are playing red and they throw us a red 5 and we have a green 5, we can roll that 5, and the color changes, making the next player continue throwing green. The player must take a card from the deck as a penalty If you don't have a card of the color or number that was dealt to you and you don't have a special card.
 
-The goal of the game is to get rid of all the cards that are played from the beginning (seven each player) plus those that are drawn in the middle of the game. And when we stay with a card in hand, we must press the "Cone" button as quickly as possible. If we don't do it and our rivals notice it they will penalize us by making us steal another card from the deck.
-
+The goal of the game is to get rid of all the cards in your hand. Make sure to press the "ONE" button before throwing your penultimate card otherwise you'll end up penalized with 2 cards from the deck.
