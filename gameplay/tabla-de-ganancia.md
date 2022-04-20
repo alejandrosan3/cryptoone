@@ -9,7 +9,7 @@
 | **Ganada Por Partida** |   3,2$  |   6,3$  |   7$   |  7,3$  |
 | **Transacción**        |  -0.53$ |  -0.53$ | -0.53$ | -0.53$ |
 
-**NOTA:** Ganando el 100% de las partidas diarias.
+**NOTA:** El ROI no es determinado en unidad de tiempo. Este va a depender de la habilidad y suerte del jugador.
 
 **Alquiler de Salones y Mesas**
 
