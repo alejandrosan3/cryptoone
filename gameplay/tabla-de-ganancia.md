@@ -2,12 +2,12 @@
 
 **Pases :**
 
-|                        | Starter | Special | Expert |  Pro |
-| ---------------------- | :-----: | :-----: | :----: | :--: |
-| **Precio**             |   100$  |   350$  |  550$  | 750$ |
-| **Partidas Diarias**   |    3    |    5    |    7   |   9  |
-| **Ganada Por Partida** |   3,2$  |   6,3$  |   7$   | 7,3$ |
-| **Transacción**        |  -0,53$ |    -1   |  -1,4  | -1,8 |
+|                        | Starter | Special | Expert |   Pro  |
+| ---------------------- | :-----: | :-----: | :----: | :----: |
+| **Precio**             |   100$  |   350$  |  550$  |  750$  |
+| **Partidas Diarias**   |    3    |    5    |    7   |    9   |
+| **Ganada Por Partida** |   3,2$  |   6,3$  |   7$   |  7,3$  |
+| **Transacción**        |  -0.53$ |  -0.53$ | -0.53$ | -0.53$ |
 
 **NOTA:** Ganando el 100% de las partidas diarias.
 
