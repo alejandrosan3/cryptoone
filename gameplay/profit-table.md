@@ -2,12 +2,12 @@
 
 **Passes :**
 
-|                         | Starter | Special | Expert |  Pro |
-| ----------------------- | :-----: | :-----: | :----: | :--: |
-| **Price**               |   100$  |   350$  |  550$  | 750$ |
-| **Daily Matches**       |    3    |    5    |    7   |   9  |
-| **Earnings by matches** |   3.2$  |   6.3$  |   7$   |  7,3 |
-| **Transaction**         |  -0.53$ |    -1   |  -1.4  | -1.8 |
+|                         | Starter | Special | Expert |   Pro  |
+| ----------------------- | :-----: | :-----: | :----: | :----: |
+| **Price**               |   100$  |   350$  |  550$  |  750$  |
+| **Daily Matches**       |    3    |    5    |    7   |    9   |
+| **Earnings by matches** |   3.2$  |   6.3$  |   7$   |   7,3  |
+| **Transaction**         |  -0.53$ |  -0.53$ | -0.53$ | -0.53$ |
 
 **NOTE:** Winning 100% of the daily games.
 
