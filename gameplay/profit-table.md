@@ -9,7 +9,7 @@
 | **Earnings by matches** |   3.2$  |   6.3$  |   7$   |   7,3  |
 | **Transaction**         |  -0.53$ |  -0.53$ | -0.53$ | -0.53$ |
 
-**NOTE:** Winning 100% of the daily games.
+**NOTE:** ROI is not determined by a time unit. instead it will depend on the player's skill and luck.
 
 **Rents of rooms and Tables**
 
