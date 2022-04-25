@@ -7,7 +7,6 @@
 * [🎯 Goal](gameplay/goal.md)
 * [🗃 Deck of Cards](gameplay/cards-deck.md)
 * [💳 Pass Cards](gameplay/pass-cards.md)
-* [🎖 Membership](gameplay/membership.md)
 * [👁 Rules](gameplay/rules.md)
 * [🪧 Gameplay](gameplay/gameplay.md)
 * [💰 Profit Table](gameplay/profit-table.md)

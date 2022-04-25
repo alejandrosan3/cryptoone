@@ -13,7 +13,7 @@ coverY: 0
 * 3 Matches p/day
 * Reward 1x
 
-****
+***
 
 **Special Pass:**
 
@@ -25,8 +25,6 @@ coverY: 0
 * 5 Matches p/day
 * Reward 1x
 
-
-
 **Expert Pass:**
 
 ![](<../.gitbook/assets/Expert Pass.png>)
@@ -35,7 +33,7 @@ coverY: 0
 * 7 Matches p/day
 * Reward 1x
 
-****
+***
 
 **Pro Pass:**
 
@@ -45,8 +43,6 @@ coverY: 0
 * 9 Matches p/day
 * Reward 1x
 
-
 **Note:**
-* The passes are paid monthly and it will be released to the market if the renter fails to renew them 24h passed their due date. This is done to ensure the longevity of the economy and its tokens life.
 
-* You also need a membership in order to access the Crypto One project as an investor.
+* The passes are paid monthly and it will be released to the market if the renter fails to renew them 24h passed their due date. This is done to ensure the longevity of the economy and its tokens life.
