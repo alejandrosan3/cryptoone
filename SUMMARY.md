@@ -7,7 +7,6 @@
 * [🎯 Objetivo](gameplay/objetivo.md)
 * [🗃 Mazo de Cartas](gameplay/mazo-de-cartas.md)
 * [💳 Tarjetas de Pase](gameplay/tarjetas-de-pase.md)
-* [🎖 Membresía](gameplay/membresia.md)
 * [👁 Reglamento](gameplay/reglamento.md)
 * [🪧 Modo de Juego](gameplay/modo-de-juego.md)
 * [💰 Tabla de Ganancia](gameplay/tabla-de-ganancia.md)

@@ -39,10 +39,6 @@ coverY: 0
 * 9 partidas por dia
 * Reward 1x
 
+**Notas:**
 
-
-**Notas:** 
-
-* El Alquiler de estos items es Mensual, pasado 24 horas luego del vencimiento del contrato, si el arrendatario no renueva su alquiler, este quedara liberado en el Market Place para cualquier otra persona que este interesada, Todo esto se hace para la longevidad de la economía y vida del token.
-
-* Estos precios son adicionales a los precios de las membresías y ambos son necesarios para poder acceder como inversor, al proyecto Crypto One. 
+* El Alquiler de estos items es Mensual, pasado 24 horas luego del vencimiento del contrato, si el arrendatario no renueva su alquiler, este quedará liberado en el Market Place para cualquier otra persona que esté interesada, Todo esto se hace para la longevidad de la economía y vida del token.
