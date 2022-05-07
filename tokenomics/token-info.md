@@ -1,6 +1,6 @@
 # ℹ Token Information
 
-![](<../.gitbook/assets/Chart ONE Grey toknemoicis (1).png>)
+![](../.gitbook/assets/chart-one.jpg)
 
 | Distribution              | Tokens   | Block                                                            |
 | ------------------------- | -------- | ---------------------------------------------------------------- |
